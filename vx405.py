@@ -10119,13 +10119,13 @@ def main():
         except ValueError:
             print_err("Enter a number, 'S' for Stealth, or 'B' for Botnet")
 
-if __name__ == "__main__":
+iif __name__ == "__main__":
     try:
         main()
     except KeyboardInterrupt:
         print(f"\n\n{R}Interrupted. Goodbye.{RST}\n")
         sys.exit(0)
-0)
+)
 t KeyboardInterrupt:
         print(f"\n\n  {R}Interrupted. Goodbye.{RST}\n")
         sys.exit(0)
